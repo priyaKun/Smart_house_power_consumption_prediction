@@ -1,0 +1,9 @@
+name: smart_home_power_consumption_prediction
+dependencies:
+  - python=3.x
+  - pandas
+  - numpy
+  - scikit-learn
+  - tensorflow
+  - matplotlib
+  - jupyter
